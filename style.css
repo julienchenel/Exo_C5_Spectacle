@@ -1,0 +1,45 @@
+body{
+	background-color: #DCDCDC;
+}
+
+h1 {
+
+	color :#EBC71E;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding-bottom: 80px;
+}
+
+#successConnection  {
+	text-align: center;
+	color: green;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#echecConnection  {
+	text-align: center;
+	color: red;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+
+table {
+border: medium solid #6495ed;
+border-collapse: collapse;
+width: 100%;
+
+}
+
+
+td {
+font-family: sans-serif;
+border: thin solid #6495ed;
+width: 10%;
+padding: 5px;
+text-align: center;
+background-color: #DCDCDC;
+}
+
